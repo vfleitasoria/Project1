@@ -9,7 +9,6 @@ public class TestDemo {
 		System.out.println("Exercise 2 Test Demo");   
 
 		// This is coming from GitHub
-		System.out.println("Exercise 2 Test Demo"); 
 		System.out.println("Practice...");
 		
 	}
