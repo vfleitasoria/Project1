@@ -9,8 +9,8 @@ public class TestDemo {
 		System.out.println("GitHub Day 2 Class...");
 		
 	
-               System.out.println("Demo Test...");
-               System.out.println("Demo Test...");
+               System.out.println("Demo Push Test...");
+               System.out.println("Demo Push Test...");
                System.out.println("Demo Test Pull Back...");
 	}
 
